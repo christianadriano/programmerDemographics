@@ -1,0 +1,5 @@
+Demographics references:
+
+Stackoverflow
+http://www.techrepublic.com/article/stack-overflow-surveyed-56000-developers-and-you-wont-believe-the-results/
+http://stackoverflow.com/research/developer-survey-2016
