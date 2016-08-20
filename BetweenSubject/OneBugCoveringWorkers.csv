@@ -1,0 +1,498 @@
+workerID,fileName,score,profession,gender,yearsOfProgramming,country,programmingLanguage,IDKLevel,TP,TN,FP,FN,Precision,Recall,Accuracy,Total,Column1,log,Correct Answers,Bug covering
+680ce-8i-5C06-6:70Ec7A4e-7-84,J6.51,4,Graduate_Student,Male,6,INDIA,JAVA,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+396ie3E5A9-5-3,J3.6,3,Professional_Developer,Male,20,US,"PHP, Perl",0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+844Cg1g5e1-17:255ei-8G8E85-8,J3.6,3,Undergraduate_Student,Male,5,US,JAVA,1.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1197gc5c3c27-5,J6.51,4,Other,Male,1,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+133Ac-8e0G-703:189Ii1E-1G-123,J5.35,5,Hobbyist,Male,33,US,C++,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+1341Ci-4e-9a-707,J4.7,5,Graduate_Student,Male,2,US,JAVA,2.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+755ec4i1a-48-7,J4.7,4,Professional_Developer,Male,3,INDIA,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+81Eg-4I3c241,J4.7,4,Undergraduate_Student,Male,1,US,C++,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+307Cg-5C7a4-4-3:881AI5C9I3-85,J4.7,4,Professional_Developer,Male,4,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+276ee1A-3E7-54,J7.33,5,Hobbyist,Male,3,INDIA,PHP,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+286Ig-9C0E170,J1.8,5,Undergraduate_Student,Male,5,US,c#,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+273EI-8I-8g2-1-7,J8.54,4,Undergraduate_Student,Male,1,US,JAVA,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+973gC1A-4g040,J6.51,5,Undergraduate_Student,Male,2,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1080iE3G5I-102,J8.54,5,Hobbyist,Female,1,INDIA,python,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+638ic-5a-8a06-2,J3.6,3,Hobbyist,Male,3,US,VBA,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+166IC5e-3e-7-6-5,J8.54,5,Undergraduate_Student,Female,1,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+642ci9c-9e-580:266ee6e-1I61-3,J3.6,4,Other,Male,6,US,PHP,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+540Ec0I1E97-8,J4.7,5,Undergraduate_Student,Female,3,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+15GG-1G-6I44-8:1540CE2g-7G26-4,J1.8,5,Professional_Developer,Male,10,US,php,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+1520Ea3c0E3-65:9AI0g4a-386,J1.8,5,Graduate_Student,Male,3,INDIA,JAVA,0.00,1.00,0.00,1.00,0.00,0.50,1.00,0.50,2.00,0.50,0.18,1.00,1.00
+794gi1e-9c3-70,J4.7,4,Professional_Developer,Male,5,INDIA,"C,C++,C#",0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+73EA0a-7i-7-8-9,J4.7,5,Graduate_Student,Male,4,US,C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1456eI-3g8a-22-2:488gG-7E2G-8-68,J4.7,4,Other,Male,2.5,US,Do not currently use,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+63GI-8C5a906:400EE-2a-6c-4-89,J8.54,4,Other,Male,50,US,"vbs, c/c++, autoit",0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+619cG-3e8i71-7,J8.54,5,Professional_Developer,Female,6,US,JAVA,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+562iC0e2c-7-5-1,J3.6,4,Undergraduate_Student,Male,3,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1221iC8A5A242:495CC9e6a691:11aE2c-4c-9-86,J1.8,4,Undergraduate_Student,Male,4,US,C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1244ie-4G-4g486,J6.51,4,Professional_Developer,Male,3,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+293iG4A-3I005,J3.6,4,Other,Female,30,US,C,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+398Ca1e4I7-8-4,J3.6,5,Professional_Developer,Male,5,INDIA,JAVA,2.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1231Ce3g6C290,J6.51,5,Professional_Developer,Male,10,US,PHP,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+55eg3A1g1-8-9,J4.7,5,Professional_Developer,Male,3,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+740Ce1I9I-71-7,J8.54,5,Professional_Developer,Male,20,INDIA,PHP,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+581Aa2A0a9-60,J4.7,3,Undergraduate_Student,Male,2,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+41eI0e3i-806:568Ae7g8c-7-1-2,J3.6,5,Hobbyist,Male,4,US,JAVA,0.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+428iG0c6A-7-8-1,J5.35,5,Hobbyist,Male,8,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+820ga-8C6c5-33,J4.7,4,Undergraduate_Student,Male,4,US,JAVA,0.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+78cA-9e4a2-6-7,J1.8,5,Hobbyist,Female,1,US,none,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+963eA7C5A9-8-1,J4.7,5,Undergraduate_Student,Male,8,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1427iI-5G6C-1-36,J4.7,5,Graduate_Student,Male,2,US,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+1635CE6g8g-39-8,J4.7,4,Undergraduate_Student,Male,6,US,Python,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+729GG8e-8G-263:66AA0C-8E701,J6.51,5,Graduate_Student,Male,10,US,C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1587ee-3A7e8-7-2,J4.7,4,Undergraduate_Student,Male,2,US,JAVA,0.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+832cg-7G1i-462:73eI-8E-2g-985,J1.8,5,Undergraduate_Student,Male,7,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1432Ge-2A-6a-382,J4.7,4,Hobbyist,Male,10,US,Python,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1005eg-1g2c-9-80,J4.7,5,Professional_Developer,Female,4,US,PHP,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+830gA-8i-9I517,J4.7,5,Professional_Developer,Male,6,INDIA,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+20ca-1G-6C-3-7-3:10AE4G-4a370:46AI8G-4A8-2-2,J4.7,5,Professional_Developer,Male,2,INDIA,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1367Cg2a9C-61-4,J4.7,4,Professional_Developer,Male,3,INDIA,JAVA,0.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+30eI-1g0G8-78,J4.7,4,Graduate_Student,Male,3,INDIA,JAVA,1.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+1144aG9I5E-609,J4.7,3,Hobbyist,Female,2,US,JAVA,1.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,1.00,1.00,0.30,0.00,1.00
+1359aA0A-5i-692,J4.7,3,Graduate_Student,Male,1,INDIA,c,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+1352EE-8i-9i75-2,J4.7,3,Graduate_Student,Male,2,madurai,JAVA,2.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+1553ce3G-9A-4-3-9,J4.7,4,Hobbyist,Male,2,US,JAVA,2.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+707eg-6e-2a05-2,J5.35,5,Professional_Developer,Male,3,INDIA,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+66AC-5a0g-47-9:1443IA-7C-6e967,J4.7,5,Professional_Developer,Male,17,US,JAVA,0.00,1.00,0.00,1.00,0.00,0.50,1.00,0.50,2.00,0.50,0.18,1.00,1.00
+1541iI-2a2i3-42,J3.6,4,Professional_Developer,Male,25,US,JAVA,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+1117AG3e4C-92-7,J4.7,5,Other,Female,2,US,PHP,0.00,1.00,0.00,1.00,0.00,0.50,1.00,0.50,2.00,0.50,0.18,1.00,1.00
+1157ca-1E-5e-564,J4.7,4,Undergraduate_Student,Male,2,US,C,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+970AG-5G9G0-86,J6.51,4,Hobbyist,Male,1,US,BASIC,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+52Ce2i0i-614,J4.7,5,Hobbyist,Male,15,US,"C++, Visual Basic",0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1245CI-3g-1a1-72,J4.7,5,Undergraduate_Student,Male,1,US,C++,2.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1340Gi0e-4G-265,J4.7,5,Professional_Developer,Male,4,INDIA,JAVA,0.00,0.00,1.00,0.00,1.00,0.00,0.00,0.50,2.00,0.50,0.18,1.00,1.00
+629Ee-9e7e9-32,J5.35,4,Professional_Developer,Male,8,INDIA,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+262IG-2i-1e-860,J3.6,5,Undergraduate_Student,Female,1,US,JAVA,1.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+83gE-9E9a-176:1609ca8I0E-894,J1.8,4,Undergraduate_Student,Male,9,US,c++,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+1568aA-4c6i-106:505iC4e-2c-439,J4.7,3,Professional_Developer,Male,15,US,"Perl, SQL",0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+447Ic-4a0e0-7-3,J3.6,4,Undergraduate_Student,Male,2,US,C++,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+5ai0i-8E-72-1,J5.35,3,Professional_Developer,Female,5,INDIA,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+666cg2a-4C2-83,J4.7,3,Hobbyist,Female,12,US,C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+664Ge2a-4e-66-2,J3.6,3,Hobbyist,Female,0,US,NONE,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+657eE-7g8g0-33,J4.7,5,Undergraduate_Student,Female,1,Canada,C#,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+54ee2E5G30-4,J4.7,4,Hobbyist,Male,1,US,JAVA,2.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1147iA9a5c196,J6.51,3,Hobbyist,Female,1,US,C#,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+1517gG7e-9a5-12:13EE-9c-7e880,J1.8,5,Graduate_Student,Female,4,INDIA,JAVA,0.00,0.00,1.00,0.00,1.00,0.00,0.00,0.50,2.00,0.50,0.18,1.00,1.00
+452Ig6c-9G-502:768Ga1I8G-27-2:69eC6i-8G00-4,J1.8,4,Hobbyist,Male,35,US,Euphoria,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+40Ge-1c-3I-31-7,J1.8,4,Professional_Developer,Male,3,INDIA,HTML,1.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+90Ai-9A0a-8-28,J4.7,3,Hobbyist,Male,30,US,PHP,2.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+702ci-6A7G-38-5,J5.35,3,Professional_Developer,Female,10,INDIA,JAVA,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+104eE-2E-5a05-8,J5.35,3,Professional_Developer,Male,2,US,VB.NET,2.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+98ce7A-4i-507,J1.8,4,Undergraduate_Student,Female,10,US,c#,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+669Ce-6e1a4-71,J5.35,3,Hobbyist,Male,15,US,Python,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1254gg5C-2C06-7,J6.51,5,Professional_Developer,Female,16,US,"C, Python",0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+270eG-5c6A3-46:65eI-2i-2I-9-36,J1.8,5,Professional_Developer,Male,20,US,C#,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1222ae-7A3c2-7-6,J6.51,4,Other,Female,12,US,c++,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+607iG-5I0i314,J3.6,4,Hobbyist,Male,15,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+749ei0A6I-20-1,J4.7,4,Professional_Developer,Male,15,US,C#,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+645ca0i0i87-5:419ee1I0A201,J4.7,5,Professional_Developer,Male,20,US,c++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1608Ic8c-7G-423,J4.7,4,Undergraduate_Student,Male,3,US,"c++, assembly",1.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+33IE-8g0A9-7-8,J6.51,5,Professional_Developer,Male,8,US,JAVA,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+75IG0G-7C6-30:286AC-3A-2g0-74:3aI0C8I-9-2-5,J3.6,4,Professional_Developer,Female,9,INDIA,PHP,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+59gA3i5E2-7-9:249IE-2a8E-92-1,J3.6,5,Graduate_Student,Male,12,Colombia,C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+813AE9c-9a-61-1,J4.7,3,Graduate_Student,Male,6,INDIA,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1598AG0g-8e-9-32,J1.8,4,Professional_Developer,Male,25,US,c++,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+178Ci-7G0E5-62,J3.6,4,Professional_Developer,Male,5,US,C,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+8EI3i9I949:931ii-1c6G-5-95,J5.35,3,Other,Female,10,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+22Ce-7c-5C-5-49,J5.35,5,Professional_Developer,Male,8,US,JAVA,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+588IC-1C8c-145,J4.7,4,Hobbyist,Male,12,US,Python,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1582ai0e2I065,J4.7,5,Graduate_Student,Male,2,INDIA,JAVA,1.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1274Ie3c0A69-4,J6.51,5,Hobbyist,Female,1,US,bash,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+515IG1e8A-9-36,J7.33,5,Hobbyist,Male,33,US,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+90Ge-2g-4c24-7,J4.7,5,Professional_Developer,Male,3.5,INDIA,JAVA,1.00,1.00,0.00,1.00,0.00,0.50,1.00,0.50,2.00,0.50,0.18,1.00,1.00
+1524GC-4c-6e84-1,J4.7,5,Professional_Developer,Female,16,INDIA,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+97ci7A-6e537:520EG-8e-4a-42-5,J7.33,5,Graduate_Student,Female,1,INDIA,JAVA,0.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+1506IC2A8e2-20:615gC7g-8i-21-3:85aA-1G-5e8-11:89cG-4a4I-5-15,J3.6,5,Undergraduate_Student,Male,4,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1176aG-6g3A-509,J6.51,3,Undergraduate_Student,Male,2,US,JAVA,2.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+486cI5E-5e4-98,J3.6,4,Professional_Developer,Male,10,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+99IG-7e4g019,J4.7,5,Professional_Developer,Male,15,US,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+214ea9G9i04-1,J3.6,3,Graduate_Student,Male,4,US,JAVA,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+9GI2A-8C06-5,J4.7,5,Professional_Developer,Male,8,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1010Cc7a3A2-9-6,J6.51,5,Professional_Developer,Male,35,US,"python, c++",0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+3AG2a6c-6-4-6:485Gg1i-6E-150:13GC7c-2c-843,J8.54,5,Other,Male,6,US,python,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+661ee-4e-8c4-5-6,J8.54,4,Professional_Developer,Male,10,US,"C,C++,.NET",0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1057Ce-9i-9E-105,J4.7,4,Undergraduate_Student,Male,2,US,C++,0.00,0.00,1.00,0.00,1.00,0.00,0.00,0.50,2.00,0.50,0.18,1.00,1.00
+1449GA0I-4C14-1,J1.8,4,Undergraduate_Student,Male,4,US,php and C++,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1033Ae4A5G2-3-4,J3.6,5,Professional_Developer,Male,25,US,"c#, c++",0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1059Ec7i-9C0-64,J4.7,5,Professional_Developer,Male,19,US,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+996ec0C2g-36-7:7ga-6A-2g8-9-1,J4.7,5,Hobbyist,Male,8,US,Python,1.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+106EC-9i-4a-718,J4.7,4,Other,Female,35,US,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+702gc9c4a9-86,J3.6,3,Professional_Developer,Male,20,US,JAVA,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+513EI6i2E44-6,J8.54,4,Hobbyist,Male,5,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1007Ce4C-7e-8-3-7,J4.7,3,Professional_Developer,Female,2,US,JAVA,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1213eA-4e-9g0-98,J6.51,5,Professional_Developer,Male,10,US,C#,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+94CA2E-8e-485:14aa-9a8A-9-86,J3.6,5,Professional_Developer,Male,15,US,"HTML, CSS",0.00,0.00,1.00,0.00,1.00,0.00,0.00,0.50,2.00,0.50,0.18,1.00,1.00
+1138Ec-3g8I-6-1-9,J4.7,3,Graduate_Student,Male,3,INDIA,JAVA,0.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+545gg-4G7e00-1,J5.35,3,Hobbyist,Male,30,US,JAVA,2.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+957cC5C0E4-4-5,J4.7,5,Undergraduate_Student,Male,2,US,Ada,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+18ii-3A8a-2-2-3:17cC4a2e-8-2-6,J7.33,3,Hobbyist,Male,5,US,C#,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+346Gg6E5E475,J3.6,4,Professional_Developer,Male,4,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+16GI2i-7c70-7,J4.7,4,Hobbyist,Female,2,US,python,1.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1AI-7e-8i090,J4.7,4,Hobbyist,Male,35,US,Euphoria,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+40Ag4a-1c-41-2,J3.6,3,Professional_Developer,Female,3,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+67AI-8G5A71-3:163Aa0i0a963:161eg5c5I-649,J1.8,5,Other,Male,30,US,"none at present, most C and ksh in past, C++,",0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+553Ic-5c-3E0-81,J8.54,4,Professional_Developer,Male,4,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+188aC8i1a150,J1.8,5,Professional_Developer,Female,4,INDIA,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+64eA1C3G808,J6.51,5,Professional_Developer,Male,6,Italy,JAVA,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+127IC0c0A-56-3,J5.35,4,Professional_Developer,Female,15,US,c sharp,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+781gE-5a0I-2-8-5,J3.6,3,Hobbyist,Male,35,US,Euphoria,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1583cG-5E-8C-6-50,J3.6,4,Professional_Developer,Male,25,US,C,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+84CE-1i3I00-5,J5.35,5,Professional_Developer,Female,3,INDIA,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+1558IC6A2G07-8,J1.8,3,Professional_Developer,Male,7,INDIA,JAVA,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+185ci-3a-7c2-76,J3.6,3,Professional_Developer,Female,9,INDIA,PHP,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+29ii5g2i4-31,J4.7,5,Professional_Developer,Male,2,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+809cE-2g-5i-8-5-7,J4.7,3,Graduate_Student,Male,3,INDIA,JAVA,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+358Ce0A6e-50-7,J3.6,3,Professional_Developer,Male,3,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+855ce-6e-8A-7-3-2,J4.7,3,Undergraduate_Student,Male,4,US,JAVA,0.00,1.00,0.00,0.00,0.00,1.00,1.00,1.00,1.00,0.00,0.00,1.00,1.00
+549EI-5E-8e-92-5,J4.7,5,Hobbyist,Female,5,INDIA,JAVA,1.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,1.00,1.00,0.30,0.00,1.00
+850CI-4G6E-6-4-8,J4.7,3,Hobbyist,Female,2,US,C#,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1428ei-8G-8i70-4,J4.7,3,Undergraduate_Student,Female,3,INDIA,c,0.00,1.00,0.00,1.00,0.00,0.50,1.00,0.50,2.00,0.50,0.18,1.00,1.00
+106iG8G-9I-9-80:590CG-6G-7i-71-9,J5.35,4,Professional_Developer,Male,10,US,C++,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+751gC1a0c-7-3-2,J4.7,4,Hobbyist,Male,1,US,Python,2.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1085iG9e-2C-6-57,J4.7,5,Professional_Developer,Male,3,INDIA,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+1338Ag-4A7i-4-85,J1.8,3,Graduate_Student,Male,2,US,JAVA,2.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+556ce9C0G5-9-7,J6.51,4,Undergraduate_Student,Male,2,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+394Cg0C6E-70-2,J3.6,3,Graduate_Student,Male,3,Bulgaria,"C#, Python",0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+10eA-4G6I98-6,J4.7,5,Undergraduate_Student,Male,1,US,html,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+555aC0a8e4-8-3:535CE8A-5e-95-2,J1.8,3,Graduate_Student,Female,1,US,JAVA,0.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+816iE-9I-4e-87-8,J4.7,3,Graduate_Student,Male,2,INDIA,JAVA,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+357Ac8I-6G-770,J5.35,3,Undergraduate_Student,Male,2,US,Matlab,0.00,1.00,1.00,1.00,0.00,0.50,1.00,0.67,3.00,0.33,0.12,2.00,1.00
+1159AI-9A9g2-1-9,J4.7,5,Professional_Developer,Male,20,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+584cC0A4G-821,J7.33,4,Undergraduate_Student,Male,1,US,JAVA,1.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,1.00,1.00,0.30,0.00,1.00
+100iI-7A-7g-505:15ge-4I9c-31-7,J1.8,5,Hobbyist,Male,4,US,JAVA,0.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+37gg5C-5i149,J5.35,5,Graduate_Student,Male,6,US,C,2.00,1.00,0.00,2.00,0.00,0.33,1.00,0.33,3.00,0.67,0.22,1.00,1.00
+1471CA8i0C-225,J1.8,5,Other,Female,15,US,Python,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+434Ci3a0c-1-68,J5.35,4,Professional_Developer,Male,33,US,C#,1.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1504ic8g0I130:312cI-5a9I-1-82:10eG-8i5a-618,J3.6,5,Professional_Developer,Male,8,INDIA,C#,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+92ea8E5i07-8:77cc-5c0G32-4,J8.54,4,Graduate_Student,Male,6,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+985AG2C4g-61-6,J4.7,3,Graduate_Student,Female,1,INDIA,C,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1050eE-1c-6C0-2-1,J4.7,5,Professional_Developer,Male,10,US,php,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+94iC8I-7g2-6-9:176ac-2C-6e7-94,J3.6,3,Professional_Developer,Male,25,US,"C#, C++",0.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+1206iA4i-9C6-8-3,J6.51,5,Undergraduate_Student,Female,2,US,3,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+118Cc-2C-6I-1-83,J6.51,5,Graduate_Student,Female,3,INDIA,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+656AI5G0i-32-5,J1.8,4,Undergraduate_Student,Male,4,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+881AC0I2E-625:135cI3E-7e8-86,J1.8,5,Professional_Developer,Male,7,US,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+1523iA8C4C-602,J1.8,5,Professional_Developer,Male,14,US,"C++,Object Pascal",0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+375iA6E-5g91-6,J7.33,5,Hobbyist,Female,5,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+96CE1c7G35-1:591ga-7E0E9-88,J4.7,4,Hobbyist,Female,15,US,JAVA,0.00,0.00,2.00,0.00,1.00,0.00,0.00,0.67,3.00,0.33,0.12,2.00,1.00
+5Ag-2g5E106,J4.7,5,Undergraduate_Student,Male,3,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+222cC-5A1E364,J8.54,4,Professional_Developer,Male,5,US,JAVA,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1457Ee7C-8c4-51:836Ii-6G-5c-819,J4.7,3,Undergraduate_Student,Female,2,US,Python,3.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00,3.00,1.00,0.30,0.00,1.00
+901AG-9g1g270,J4.7,5,Professional_Developer,Female,7,INDIA,JAVA,0.00,1.00,2.00,0.00,0.00,1.00,1.00,1.00,3.00,0.00,0.00,3.00,1.00
+470Gc0A-7e-350,J7.33,5,Hobbyist,Male,10,US,JAVA,0.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,2.00,1.00,0.30,0.00,1.00
+431IC5c-9A-716,J5.35,3,Undergraduate_Student,Female,2,US,C++,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+268Ai-3a-7G689,J3.6,3,Graduate_Student,Female,2,US,python,0.00,0.00,1.00,1.00,1.00,0.00,0.00,0.33,3.00,0.67,0.22,1.00,1.00
+1569GA-9C0a903,J1.8,5,Professional_Developer,Male,7,US,visual foxpro,0.00,1.00,1.00,0.00,0.00,1.00,1.00,1.00,2.00,0.00,0.00,2.00,1.00
+262IG-2i-1e-860,J3.6,5,Undergraduate_Student,Female,1,US,JAVA,1,1,0,2,0,,,,,,,,
+50gG-8i8g-16-5,J4.7,5,Hobbyist,Male,4,US,JAVA,0,0,2,1,0,,,,,,,,
+83gE-9E9a-176:1609ca8I0E-894,J1.8,4,Undergraduate_Student,Male,9,US,c++,0,1,1,0,0,,,,,,,,
+1568aA-4c6i-106:505iC4e-2c-439,J4.7,3,Professional_Developer,Male,15,US,"Perl, SQL",0,0,1,1,1,,,,,,,,
+714gE-6e0E-3-3-3,J8.54,3,Undergraduate_Student,Female,1,INDIA,C,0,0,1,0,2,,,,,,,,
+589GA-9C3c710,J7.33,3,Hobbyist,Male,3,US,JAVA,1,0,0,2,0,,,,,,,,
+12gG3I-4G95-8,J3.6,4,Hobbyist,Male,5,US,python,2,0,1,2,0,,,,,,,,
+1518CC2g5I-319,J1.8,4,Graduate_Student,Male,3,US,JAVA,0,0,2,0,0,,,,,,,,
+447Ic-4a0e0-7-3,J3.6,4,Undergraduate_Student,Male,2,US,C++,0,0,1,1,1,,,,,,,,
+5ai0i-8E-72-1,J5.35,3,Professional_Developer,Female,5,INDIA,JAVA,0,1,0,2,0,,,,,,,,
+725gi2i-5a38-8,J4.7,4,Graduate_Student,Male,4,US,JAVA,1,0,0,1,0,,,,,,,,
+966EA3a-3A1-1-5,J8.54,5,Professional_Developer,Male,8,INDIA,C#,0,0,3,0,0,,,,,,,,
+1229cG-8G1G-915,J4.7,4,Hobbyist,Male,15,US,C++,0,0,2,1,0,,,,,,,,
+356aC-2E-3i-1-9-2,J8.54,4,Hobbyist,Female,1,US,BASH,0,0,3,0,0,,,,,,,,
+474ic-2g1i-23-3,J8.54,5,Undergraduate_Student,Male,20,US,PHP,0,0,3,0,0,,,,,,,,
+666cg2a-4C2-83,J4.7,3,Hobbyist,Female,12,US,C++,0,1,2,0,0,,,,,,,,
+1535eC4G4g-8-85:827Ca-4g2e-90-5,J4.7,5,Professional_Developer,Male,1,INDIA,JAVA,0,0,1,2,0,,,,,,,,
+892CA6a-8c802:759GA-8a-5a-285,J1.8,4,Professional_Developer,Female,6,INDIA,"PHP,MySQL",0,0,0,3,0,,,,,,,,
+772ia-5e-2C4-55,J4.7,4,Hobbyist,Male,8,US,JAVA,0,0,3,0,0,,,,,,,,
+594eG-2e-7C12-9,J8.54,3,Hobbyist,Male,10,INDIA,"VB.net, MQL4",0,0,1,2,0,,,,,,,,
+777Ci4A2a213,J4.7,3,Undergraduate_Student,Male,2,US,Python,0,0,1,2,0,,,,,,,,
+693ag0C9I-13-6,J1.8,4,Graduate_Student,Male,2,US,JAVA,0,0,1,0,0,,,,,,,,
+1183aG3E2c-60-7,J6.51,4,Undergraduate_Student,Male,2,US,JAVA,0,0,3,0,0,,,,,,,,
+664Ge2a-4e-66-2,J3.6,3,Hobbyist,Female,0,US,NONE,0,0,1,1,1,,,,,,,,
+657eE-7g8g0-33,J4.7,5,Undergraduate_Student,Female,1,Canada,C#,3,0,0,2,1,,,,,,,,
+532iI4C2G-8-35,J8.54,5,Graduate_Student,Female,1,INDIA,JAVA,0,0,2,1,0,,,,,,,,
+630AE4g-9A-5-50,J8.54,3,Professional_Developer,Male,12,US,JAVA,0,0,3,0,0,,,,,,,,
+61ae4E2e164,J8.54,5,Professional_Developer,Male,35,US,"python, c++",0,0,2,1,0,,,,,,,,
+54ee2E5G30-4,J4.7,4,Hobbyist,Male,1,US,JAVA,2,0,1,1,1,,,,,,,,
+82Ai8C-3i739,J8.54,3,Hobbyist,Female,2,US,JAVA,0,0,2,1,0,,,,,,,,
+1147iA9a5c196,J6.51,3,Hobbyist,Female,1,US,C#,3,0,0,2,1,,,,,,,,
+1517gG7e-9a5-12:13EE-9c-7e880,J1.8,5,Graduate_Student,Female,4,INDIA,JAVA,0,0,1,0,1,,,,,,,,
+452Ig6c-9G-502:768Ga1I8G-27-2:69eC6i-8G00-4,J1.8,4,Hobbyist,Male,35,US,Euphoria,0,1,2,0,0,,,,,,,,
+999ga-2G-2G995:687Ci0C-3e-4-55,J4.7,5,Professional_Developer,Male,10,Croatia,Python,0,0,1,2,0,,,,,,,,
+1270GI8C5i-6-19,J6.51,5,Undergraduate_Student,Male,9,US,c++,0,0,2,1,0,,,,,,,,
+40Ge-1c-3I-31-7,J1.8,4,Professional_Developer,Male,3,INDIA,HTML,1,0,0,1,1,,,,,,,,
+529EI4e7C696,J8.54,3,Professional_Developer,Male,8,US,JAVA,0,0,3,0,0,,,,,,,,
+90Ai-9A0a-8-28,J4.7,3,Hobbyist,Male,30,US,PHP,2,1,0,2,0,,,,,,,,
+183EC9G-6E-4-40,J3.6,3,Hobbyist,Female,2,INDIA,php,0,0,1,0,0,,,,,,,,
+352iG-9c-2C29-1,J4.7,3,Undergraduate_Student,Male,1,US,C++,0,0,1,2,0,,,,,,,,
+1577Cc1E-5E1-9-3,J3.6,5,Undergraduate_Student,Male,2,US,Ada,0,0,1,0,0,,,,,,,,
+702ci-6A7G-38-5,J5.35,3,Professional_Developer,Female,10,INDIA,JAVA,0,1,1,1,0,,,,,,,,
+104eE-2E-5a05-8,J5.35,3,Professional_Developer,Male,2,US,VB.NET,2,1,0,2,0,,,,,,,,
+98ce7A-4i-507,J1.8,4,Undergraduate_Student,Female,10,US,c#,0,1,2,0,0,,,,,,,,
+47iC7C7I-8-2-2,J3.6,3,Professional_Developer,Male,30,US,"vb.net, vbscript, vba",0,0,1,1,0,,,,,,,,
+19CG-8g8e502:609ie-1e-7i-69-2,J3.6,5,Other,Male,12,US,JAVA,0,0,3,0,0,,,,,,,,
+831AG1c-9G-3-45,J2.24,3,Hobbyist,Male,5,US,C++,0,0,1,2,0,,,,,,,,
+651iA8E0i-867,J4.7,5,Professional_Developer,Male,10,US,JAVA,0,0,3,0,0,,,,,,,,
+1266Gc-4I7C152,J3.6,3,Professional_Developer,Female,9,INDIA,PHP,0,0,1,1,0,,,,,,,,
+494gg-5i2I0-76,J1.8,5,Graduate_Student,Male,1,US,C++,0,0,2,1,0,,,,,,,,
+53Aa5c-1C-9-70,J4.7,3,Undergraduate_Student,Male,3,US,JAVA,0,0,2,0,0,,,,,,,,
+318ei6C-4e59-7,J8.54,5,Hobbyist,Male,15,US,JAVA,0,0,3,0,0,,,,,,,,
+669Ce-6e1a4-71,J5.35,3,Hobbyist,Male,15,US,Python,0,1,1,1,0,,,,,,,,
+1029gC9I4C-463,J2.24,5,Undergraduate_Student,Male,2,INDIA,JAVA,3,0,0,1,2,,,,,,,,
+94ce-5I9a-4-3-6:477Gi5i-7I316,J8.54,4,Hobbyist,Male,14,US,JAVA,0,0,1,2,0,,,,,,,,
+1254gg5C-2C06-7,J6.51,5,Professional_Developer,Female,16,US,"C, Python",0,1,2,0,0,,,,,,,,
+270eG-5c6A3-46:65eI-2i-2I-9-36,J1.8,5,Professional_Developer,Male,20,US,C#,0,1,2,0,0,,,,,,,,
+1494IE-6g9G9-48,J1.8,4,Hobbyist,Male,8,US,python,0,0,1,1,0,,,,,,,,
+270ie-2C-4c-550:97ai0I-8C871,J1.8,5,Professional_Developer,Male,20,US,c++,0,0,2,1,0,,,,,,,,
+918aC-7a-9A-710,J8.54,3,Professional_Developer,Male,10,US,C#,0,0,3,0,0,,,,,,,,
+1222ae-7A3c2-7-6,J6.51,4,Other,Female,12,US,c++,0,0,2,0,1,,,,,,,,
+300eA0A3G951,J3.6,3,Professional_Developer,Male,20,US,"PHP, Perl",0,0,1,1,0,,,,,,,,
+1110Ge7a2g-1-70,J4.7,3,Hobbyist,Female,0,US,html,3,0,0,3,0,,,,,,,,
+138iA3e-9A-85-8,J8.54,4,Undergraduate_Student,Male,2,US,JAVA,0,0,1,0,2,,,,,,,,
+1330Ie9C-8c236,J4.7,3,Graduate_Student,Female,10,US,JAVA,1,0,2,1,0,,,,,,,,
+23Ai-8E5A-1-1-1,J4.7,5,Hobbyist,Male,1,US,python,0,0,1,2,0,,,,,,,,
+607iG-5I0i314,J3.6,4,Hobbyist,Male,15,US,JAVA,0,0,1,1,1,,,,,,,,
+1269AG-3e1e-50-8,J6.51,3,Undergraduate_Student,Male,1,US,JAVA,2,0,0,2,0,,,,,,,,
+749ei0A6I-20-1,J4.7,4,Professional_Developer,Male,15,US,C#,3,0,0,2,1,,,,,,,,
+663Eg0E6G90-1,J8.54,5,Other,Female,15,US,Python,0,0,2,1,0,,,,,,,,
+256ai-9C-4A-2-5-9,J3.6,5,Graduate_Student,Male,10,US,JAVA,0,0,1,0,0,,,,,,,,
+645ca0i0i87-5:419ee1I0A201,J4.7,5,Professional_Developer,Male,20,US,c++,0,1,2,0,0,,,,,,,,
+668IE-2E-3i-9-1-6,J8.54,4,Hobbyist,Male,9,US,"C, Python",2,0,1,2,0,,,,,,,,
+80Ga2E9e43-9,J4.7,4,Graduate_Student,Male,2,Latvia,JAVA,1,0,1,1,0,,,,,,,,
+1608Ic8c-7G-423,J4.7,4,Undergraduate_Student,Male,3,US,"c++, assembly",1,0,0,1,1,,,,,,,,
+1445ca0A-2a-819,J1.8,3,Undergraduate_Student,Male,2,US,JAVA,0,0,0,2,0,,,,,,,,
+893ec6i-1a-49-2,J4.7,4,Professional_Developer,Male,17,US,JAVA,0,0,3,0,0,,,,,,,,
+35eA-7i-2a656,J7.33,5,Professional_Developer,Male,3,INDIA,JAVA,0,0,2,1,0,,,,,,,,
+931EE-1g8a-456,J2.24,3,Undergraduate_Student,Male,4,US,JAVA,0,0,0,3,0,,,,,,,,
+508Ie-4g5I2-2-6,J8.54,3,Undergraduate_Student,Female,20,US,C++,1,0,0,1,0,,,,,,,,
+230GE3I5a522,J3.6,4,Professional_Developer,Female,6,US,JAVA,0,0,3,0,0,,,,,,,,
+33IE-8g0A9-7-8,J6.51,5,Professional_Developer,Male,8,US,JAVA,0,1,1,1,0,,,,,,,,
+75IG0G-7C6-30:286AC-3A-2g0-74:3aI0C8I-9-2-5,J3.6,4,Professional_Developer,Female,9,INDIA,PHP,0,1,2,0,0,,,,,,,,
+739Gg9c-2G37-5,J8.54,3,Professional_Developer,Female,15,INDIA,php,0,0,2,1,0,,,,,,,,
+391Ce-9e0c133,J3.6,5,Hobbyist,Male,3,US,JAVA,1,0,2,1,0,,,,,,,,
+59gA3i5E2-7-9:249IE-2a8E-92-1,J3.6,5,Graduate_Student,Male,12,Colombia,C++,0,1,2,0,0,,,,,,,,
+813AE9c-9a-61-1,J4.7,3,Graduate_Student,Male,6,INDIA,JAVA,0,0,1,1,1,,,,,,,,
+1598AG0g-8e-9-32,J1.8,4,Professional_Developer,Male,25,US,c++,0,1,1,0,0,,,,,,,,
+178Ci-7G0E5-62,J3.6,4,Professional_Developer,Male,5,US,C,1,0,1,1,1,,,,,,,,
+8EI3i9I949:931ii-1c6G-5-95,J5.35,3,Other,Female,10,US,JAVA,0,1,2,0,0,,,,,,,,
+22Ce-7c-5C-5-49,J5.35,5,Professional_Developer,Male,8,US,JAVA,1,0,0,2,1,,,,,,,,
+588IC-1C8c-145,J4.7,4,Hobbyist,Male,12,US,Python,0,1,2,0,0,,,,,,,,
+1582ai0e2I065,J4.7,5,Graduate_Student,Male,2,INDIA,JAVA,1,1,1,1,0,,,,,,,,
+1161Ag9E2A015,J4.7,4,Undergraduate_Student,Male,10,US,JAVA,1,0,2,1,0,,,,,,,,
+613IA4G3g400,J7.33,3,Graduate_Student,Male,6,US,JAVA,0,0,2,0,0,,,,,,,,
+1274Ie3c0A69-4,J6.51,5,Hobbyist,Female,1,US,bash,3,0,0,2,1,,,,,,,,
+499Ig1e5E736,J4.7,3,Other,Female,26,US,SAS,0,0,1,2,0,,,,,,,,
+805aA4C3C-174,J4.7,4,Hobbyist,Male,2,US,JAVA,0,0,3,0,0,,,,,,,,
+515IG1e8A-9-36,J7.33,5,Hobbyist,Male,33,US,JAVA,0,1,1,0,0,,,,,,,,
+90Ge-2g-4c24-7,J4.7,5,Professional_Developer,Male,3.5,INDIA,JAVA,1,1,0,1,0,,,,,,,,
+1524GC-4c-6e84-1,J4.7,5,Professional_Developer,Female,16,INDIA,JAVA,0,1,1,0,0,,,,,,,,
+97ci7A-6e537:520EG-8e-4a-42-5,J7.33,5,Graduate_Student,Female,1,INDIA,JAVA,0,0,0,1,1,,,,,,,,
+1506IC2A8e2-20:615gC7g-8i-21-3:85aA-1G-5e8-11:89cG-4a4I-5-15,J3.6,5,Undergraduate_Student,Male,4,US,JAVA,0,0,1,1,1,,,,,,,,
+1176aG-6g3A-509,J6.51,3,Undergraduate_Student,Male,2,US,JAVA,2,0,1,1,1,,,,,,,,
+76Ig1I7i943,J4.7,5,Hobbyist,Male,10,Poland,PHP,0,0,3,0,0,,,,,,,,
+1303cA-9c3g-609,J4.7,3,Professional_Developer,Male,4,INDIA,5,0,0,3,0,0,,,,,,,,
+486cI5E-5e4-98,J3.6,4,Professional_Developer,Male,10,US,JAVA,0,0,1,1,1,,,,,,,,
+99IG-7e4g019,J4.7,5,Professional_Developer,Male,15,US,JAVA,0,1,0,2,0,,,,,,,,
+775GI0a2G-680,J8.54,3,Professional_Developer,Female,2,INDIA,JAVA,0,1,1,0,1,,,,,,,,
+13CI-4i-5G7-5-1,J8.54,3,Undergraduate_Student,Male,8,US,JAVA,0,0,3,0,0,,,,,,,,
+789ga-6I1C50-4,J4.7,4,Undergraduate_Student,Female,5,US,JAVA,0,0,2,1,0,,,,,,,,
+1522GC0e-3c50-8,J1.8,5,Undergraduate_Student,Male,2,US,c++,0,0,2,0,0,,,,,,,,
+600Ea-6C6E443,J8.54,5,Professional_Developer,Male,12,US,"C, VHDL, Python",0,0,3,0,0,,,,,,,,
+283ci-2e-2C70-8,J7.33,5,Undergraduate_Student,Male,17,US,JAVA,0,0,3,0,0,,,,,,,,
+673eG3G4e074,J8.54,3,Hobbyist,Male,16,US,C#,0,0,1,2,0,,,,,,,,
+56II-1e7E-789:57CI-4g3G20-9,J6.51,5,Hobbyist,Female,9,US,PHP,0,0,1,0,0,,,,,,,,
+214ea9G9i04-1,J3.6,3,Graduate_Student,Male,4,US,JAVA,1,0,0,2,1,,,,,,,,
+9GI2A-8C06-5,J4.7,5,Professional_Developer,Male,8,US,JAVA,0,1,2,0,0,,,,,,,,
+512cC-2g-1G0-6-7,J3.6,3,Professional_Developer,Male,4,US,JAVA,0,0,1,0,0,,,,,,,,
+19EC-9E-6c37-8,J4.7,4,Graduate_Student,Male,8,Germany,JAVA,0,0,3,0,0,,,,,,,,
+44iA1A8E-495,J6.51,4,Graduate_Student,Female,3,INDIA,perl,0,0,3,0,0,,,,,,,,
+598Ia1G-5e2-45,J4.7,5,Hobbyist,Female,3,US,JAVA,0,0,1,0,0,,,,,,,,
+1010Cc7a3A2-9-6,J6.51,5,Professional_Developer,Male,35,US,"python, c++",0,1,1,1,0,,,,,,,,
+3AG2a6c-6-4-6:485Gg1i-6E-150:13GC7c-2c-843,J8.54,5,Other,Male,6,US,python,0,1,1,1,0,,,,,,,,
+210AA2A1E-24-1,J3.6,4,Undergraduate_Student,Female,2,US,HTML,1,0,0,1,0,,,,,,,,
+251cg0c6g505,J8.54,4,Hobbyist,Male,4,Serbia,python,0,0,3,0,0,,,,,,,,
+1035cc-5g1C3-98,J4.7,4,Undergraduate_Student,Other,2,US,JAVA,0,0,3,0,0,,,,,,,,
+661ee-4e-8c4-5-6,J8.54,4,Professional_Developer,Male,10,US,"C,C++,.NET",0,1,1,1,0,,,,,,,,
+754cC2G-2A-4-8-2,J4.7,5,Undergraduate_Student,Male,2,INDIA,JAVA,2,0,0,3,0,,,,,,,,
+1057Ce-9i-9E-105,J4.7,4,Undergraduate_Student,Male,2,US,C++,0,0,1,0,1,,,,,,,,
+1449GA0I-4C14-1,J1.8,4,Undergraduate_Student,Male,4,US,php and C++,0,1,2,0,0,,,,,,,,
+1033Ae4A5G2-3-4,J3.6,5,Professional_Developer,Male,25,US,"c#, c++",0,1,2,0,0,,,,,,,,
+1059Ec7i-9C0-64,J4.7,5,Professional_Developer,Male,19,US,JAVA,0,1,1,0,0,,,,,,,,
+4IC-5i7I612:81ia8g6g-3-69:10IE-1i1e662,J3.6,4,Graduate_Student,Male,1,INDIA,JAVA,0,0,3,0,0,,,,,,,,
+996ec0C2g-36-7:7ga-6A-2g8-9-1,J4.7,5,Hobbyist,Male,8,US,Python,1,0,2,0,1,,,,,,,,
+23EE-1c8E1-7-2:16eA-3g-9A-7-5-3,J2.24,4,Professional_Developer,Female,6,INDIA,"PHP,MySQL",1,1,1,0,1,,,,,,,,
+106EC-9i-4a-718,J4.7,4,Other,Female,35,US,JAVA,0,1,1,0,0,,,,,,,,
+1036GI8I-8e6-30,J4.7,4,Undergraduate_Student,Male,1,US,JSP,1,0,0,1,0,,,,,,,,
+702gc9c4a9-86,J3.6,3,Professional_Developer,Male,20,US,JAVA,1,0,0,2,1,,,,,,,,
+513EI6i2E44-6,J8.54,4,Hobbyist,Male,5,US,JAVA,0,0,2,0,1,,,,,,,,
+1007Ce4C-7e-8-3-7,J4.7,3,Professional_Developer,Female,2,US,JAVA,0,1,1,1,0,,,,,,,,
+1213eA-4e-9g0-98,J6.51,5,Professional_Developer,Male,10,US,C#,0,0,2,0,1,,,,,,,,
+1662iG5A2G0-7-8:1702Ec2c-6C3-9-5,J4.7,3,Undergraduate_Student,Female,3,US,JAVA,0,0,1,0,0,,,,,,,,
+10Ei5i-5c-61-9,J7.33,5,Professional_Developer,Male,7,US,visual fox pro,0,1,1,0,1,,,,,,,,
+94CA2E-8e-485:14aa-9a8A-9-86,J3.6,5,Professional_Developer,Male,15,US,"HTML, CSS",0,0,1,0,1,,,,,,,,
+1600Cc-8c9E841:67GE4A0g-870,J4.7,4,Undergraduate_Student,Male,3,US,C++,1,0,1,2,0,,,,,,,,
+1138Ec-3g8I-6-1-9,J4.7,3,Graduate_Student,Male,3,INDIA,JAVA,0,0,0,1,1,,,,,,,,
+545gg-4G7e00-1,J5.35,3,Hobbyist,Male,30,US,JAVA,2,1,0,2,0,,,,,,,,
+81aa3e6E7-48,J4.7,4,Undergraduate_Student,Male,3,US,JAVA,0,0,3,0,0,,,,,,,,
+1566Gg-1I7G-1-4-3,J4.7,4,Professional_Developer,Male,2,canada,JAVA,0,0,2,1,0,,,,,,,,
+527ei-7g-8c1-70,J8.54,5,Graduate_Student,Male,3,US,R,0,0,2,1,0,,,,,,,,
+502Ia1G-7i-502,J1.8,5,Hobbyist,Male,15,INDIA,"VB.Net, SQL",0,0,3,0,0,,,,,,,,
+845EI-3g-3E700,J4.7,5,Undergraduate_Student,Male,6,US,"C#, C++",0,0,3,0,0,,,,,,,,
+14Gg6e1I7-56,J4.7,5,Professional_Developer,Male,28,US,JAVA,0,0,3,0,0,,,,,,,,
+101GC1i5g-7-61:1008II-5a4e60-9:110gg-3i2G-6-94,J4.7,5,Professional_Developer,Male,15,INDIA,JAVA,0,0,3,0,0,,,,,,,,
+957cC5C0E4-4-5,J4.7,5,Undergraduate_Student,Male,2,US,Ada,0,1,2,0,0,,,,,,,,
+18ii-3A8a-2-2-3:17cC4a2e-8-2-6,J7.33,3,Hobbyist,Male,5,US,C#,0,0,2,0,1,,,,,,,,
+1519cI0C0C5-18,J1.8,4,Undergraduate_Student,Male,2,US,C,0,0,2,0,0,,,,,,,,
+1126Ai0i0i-74-1,J8.54,5,Hobbyist,Male,15,US,JAVA,0,0,3,0,0,,,,,,,,
+346Gg6E5E475,J3.6,4,Professional_Developer,Male,4,US,JAVA,0,1,2,0,0,,,,,,,,
+941eE-4G9i-56-4:283Aa7E0I474,J1.8,3,Undergraduate_Student,Male,5,US,JAVA,0,0,3,0,0,,,,,,,,
+1493Ai0E9A4-49,J4.7,4,Professional_Developer,Male,35,US,"python, c++",0,0,3,0,0,,,,,,,,
+1026Ae-6g1E-5-62,J4.7,4,Other,Female,5,INDIA,VisualBasic,2,0,0,3,0,,,,,,,,
+16GI2i-7c70-7,J4.7,4,Hobbyist,Female,2,US,python,1,0,2,0,1,,,,,,,,
+625ce5g-7c1-7-9,J4.7,4,Other,Male,30,US,C++,0,0,1,0,0,,,,,,,,
+1AI-7e-8i090,J4.7,4,Hobbyist,Male,35,US,Euphoria,0,0,1,1,1,,,,,,,,
+741Ec-1c3C-7-2-5,J8.54,3,Undergraduate_Student,Male,6,US,Python,0,0,2,1,0,,,,,,,,
+83aa-2a3G4-14,J4.7,4,Professional_Developer,Male,20,US,C++,0,0,3,0,0,,,,,,,,
+1160gG0A0g516,J4.7,4,Professional_Developer,Male,5,US,JAVA,1,0,1,2,0,,,,,,,,
+867ee0c4I-76-3,J4.7,3,Graduate_Student,Female,2,INDIA,c++,0,0,0,3,0,,,,,,,,
+1593eE-3a2g273,J1.8,5,Undergraduate_Student,Male,8,US,JAVA,0,0,1,0,0,,,,,,,,
+327CC-3i7A146,J3.6,4,Graduate_Student,Male,5,US,JAVA,1,0,2,1,0,,,,,,,,
+40Ag4a-1c-41-2,J3.6,3,Professional_Developer,Female,3,US,JAVA,0,0,2,0,1,,,,,,,,
+565Ag1e1E5-67,J8.54,4,Professional_Developer,Female,3,INDIA,C#,0,0,1,0,0,,,,,,,,
+96Ca-7E2i-14-2,J4.7,3,Undergraduate_Student,Male,1,US,Python,1,0,1,2,0,,,,,,,,
+67AI-8G5A71-3:163Aa0i0a963:161eg5c5I-649,J1.8,5,Other,Male,30,US,"none at present, most C and ksh in past, C++,",0,0,2,0,1,,,,,,,,
+242Cg7E7G-60-3,J3.6,5,Hobbyist,Male,5,US,"matlab, js",0,0,1,2,0,,,,,,,,
+553Ic-5c-3E0-81,J8.54,4,Professional_Developer,Male,4,US,JAVA,0,0,1,1,1,,,,,,,,
+188aC8i1a150,J1.8,5,Professional_Developer,Female,4,INDIA,JAVA,0,1,1,0,0,,,,,,,,
+64eA1C3G808,J6.51,5,Professional_Developer,Male,6,Italy,JAVA,1,0,1,1,1,,,,,,,,
+1388Ce-6C9A-683,J4.7,4,Graduate_Student,Male,1,INDIA,JAVA,0,0,3,0,0,,,,,,,,
+909Ee-1C5I-65-5,J8.54,3,Other,Male,3,US,SAS,0,0,2,1,0,,,,,,,,
+516eI-1a3E900,J8.54,4,Other,Male,20,US,JAVA,0,0,3,0,0,,,,,,,,
+71gi8a1G5-74,J4.7,5,Hobbyist,Male,7,US,Python,2,0,0,2,0,,,,,,,,
+127IC0c0A-56-3,J5.35,4,Professional_Developer,Female,15,US,c sharp,0,1,2,0,0,,,,,,,,
+80ca6g0i-1-49:23iE-4i0a1-40,J8.54,3,Undergraduate_Student,Male,2,US,Matlab,0,0,2,1,0,,,,,,,,
+470aA4i3I-404,J4.7,3,Undergraduate_Student,Male,3,US,Swift,0,0,2,1,0,,,,,,,,
+109CE-9e-3I1-37,J3.6,5,Graduate_Student,Female,4,US,JAVA,1,0,2,1,0,,,,,,,,
+711CI1g-7G-6-6-5,J8.54,4,Undergraduate_Student,Male,7,US,Python,0,0,2,0,0,,,,,,,,
+781gE-5a0I-2-8-5,J3.6,3,Hobbyist,Male,35,US,Euphoria,0,1,1,1,0,,,,,,,,
+91Ca-7G6e-5-5-6,J4.7,4,Professional_Developer,Male,25,US,JAVA,0,0,3,0,0,,,,,,,,
+299EC-4G-4a-3-89,J8.54,4,Professional_Developer,Female,3,US,JAVA,0,0,3,0,0,,,,,,,,
+1583cG-5E-8C-6-50,J3.6,4,Professional_Developer,Male,25,US,C,0,1,1,1,0,,,,,,,,
+395CE-8i-6E3-52,J8.54,3,Hobbyist,Male,2,Unites States of America,JAVA,0,2,1,0,0,,,,,,,,
+358ig-7C7C5-1-2:10EI0c-3A0-3-9,J2.24,5,Professional_Developer,Male,5,US,SQL,0,1,1,0,1,,,,,,,,
+585Eg7c9e716,J8.54,5,Hobbyist,Female,2,US,Python,2,0,1,2,0,,,,,,,,
+84CE-1i3I00-5,J5.35,5,Professional_Developer,Female,3,INDIA,JAVA,0,1,0,2,0,,,,,,,,
+1521AI-8g4A-1-63,J1.8,5,Undergraduate_Student,Male,17,US,JAVA,0,0,2,0,0,,,,,,,,
+1558IC6A2G07-8,J1.8,3,Professional_Developer,Male,7,INDIA,JAVA,0,1,1,0,0,,,,,,,,
+235ec8G6c-82-6,J1.8,5,Hobbyist,Male,1,US,JAVA,0,0,3,0,0,,,,,,,,
+185ci-3a-7c2-76,J3.6,3,Professional_Developer,Female,9,INDIA,PHP,1,0,0,2,1,,,,,,,,
+29ii5g2i4-31,J4.7,5,Professional_Developer,Male,2,US,JAVA,0,0,2,0,1,,,,,,,,
+809cE-2g-5i-8-5-7,J4.7,3,Graduate_Student,Male,3,INDIA,JAVA,0,1,1,1,0,,,,,,,,
+358Ce0A6e-50-7,J3.6,3,Professional_Developer,Male,3,US,JAVA,0,0,2,0,1,,,,,,,,
+333aA2c-1a4-28,J8.54,5,Professional_Developer,Male,32,US,JAVA,0,0,2,1,0,,,,,,,,
+855ce-6e-8A-7-3-2,J4.7,3,Undergraduate_Student,Male,4,US,JAVA,0,1,0,0,0,,,,,,,,
+75Ei-8A9C4-76,J8.54,4,Graduate_Student,Female,1,INDIA,JAVA,0,1,1,0,1,,,,,,,,
+390iE-1e-1e-908,J8.54,3,Hobbyist,Male,3,US,C++,0,0,2,1,0,,,,,,,,
+426AC1I-8a919,J8.54,3,Other,Female,2,US,HTML,3,0,0,3,0,,,,,,,,
+706Ic-7e-9A5-43,J5.35,5,Graduate_Student,Female,5,INDIA,C,0,0,0,1,0,,,,,,,,
+423Ee5A0E5-93,J7.33,5,Hobbyist,Male,5,US,C++,1,0,0,1,2,,,,,,,,
+515AA4c-5g-9-77,J4.7,4,Professional_Developer,Female,12,INDIA,VB.net,1,0,2,1,0,,,,,,,,
+549EI-5E-8e-92-5,J4.7,5,Hobbyist,Female,5,INDIA,JAVA,1,0,0,0,1,,,,,,,,
+74iC-2e-1C5-78,J8.54,4,Undergraduate_Student,Male,6,Romania,JAVA,0,0,2,1,0,,,,,,,,
+52ce6C-7G-1-1-1,J8.54,3,Undergraduate_Student,Male,5,US,JAVA,0,0,2,1,0,,,,,,,,
+850CI-4G6E-6-4-8,J4.7,3,Hobbyist,Female,2,US,C#,0,1,2,0,0,,,,,,,,
+1428ei-8G-8i70-4,J4.7,3,Undergraduate_Student,Female,3,INDIA,c,0,1,0,1,0,,,,,,,,
+106iG8G-9I-9-80:590CG-6G-7i-71-9,J5.35,4,Professional_Developer,Male,10,US,C++,0,1,0,2,0,,,,,,,,
+945eg8c3A220,J4.7,4,Other,Male,2,INDIA,JAVA,3,0,0,3,0,,,,,,,,
+771eE-2I5c-40-7,J2.24,3,Professional_Developer,Female,9,INDIA,PHP,0,0,2,1,0,,,,,,,,
+751gC1a0c-7-3-2,J4.7,4,Hobbyist,Male,1,US,Python,2,0,1,1,1,,,,,,,,
+1085iG9e-2C-6-57,J4.7,5,Professional_Developer,Male,3,INDIA,JAVA,0,0,2,0,1,,,,,,,,
+1338Ag-4A7i-4-85,J1.8,3,Graduate_Student,Male,2,US,JAVA,2,0,0,1,1,,,,,,,,
+556ce9C0G5-9-7,J6.51,4,Undergraduate_Student,Male,2,US,JAVA,0,0,2,0,1,,,,,,,,
+191CA-4G6G-4-20,J8.54,3,Hobbyist,Female,4,US,Python,0,2,1,0,0,,,,,,,,
+394Cg0C6E-70-2,J3.6,3,Graduate_Student,Male,3,Bulgaria,"C#, Python",0,1,1,1,0,,,,,,,,
+10eA-4G6I98-6,J4.7,5,Undergraduate_Student,Male,1,US,html,0,1,0,2,0,,,,,,,,
+555aC0a8e4-8-3:535CE8A-5e-95-2,J1.8,3,Graduate_Student,Female,1,US,JAVA,0,1,0,2,0,,,,,,,,
+208ae5c-5e-2-5-1,J8.54,5,Hobbyist,Male,20,US,python,0,0,3,0,0,,,,,,,,
+816iE-9I-4e-87-8,J4.7,3,Graduate_Student,Male,2,INDIA,JAVA,3,0,0,2,1,,,,,,,,
+1114Ii7g4i-76-9,J4.7,4,Hobbyist,Female,1,US,BASH,0,0,3,0,0,,,,,,,,
+817EE-1e2C78-7:129eE4a-1E-24-3,J2.24,3,Hobbyist,Male,32,US,JAVA,0,2,1,0,0,,,,,,,,
+17aA-9e6i460,J4.7,4,Professional_Developer,Female,3,US,JAVA,0,0,1,2,0,,,,,,,,
+9gG8A-6g-1-55:601eI7I-3a-5-5-6,J1.8,4,Professional_Developer,Male,5,US,C#,0,0,3,0,0,,,,,,,,
+357Ac8I-6G-770,J5.35,3,Undergraduate_Student,Male,2,US,Matlab,0,1,1,1,0,,,,,,,,
+207GI-1i3I004,J4.7,5,Undergraduate_Student,Female,3,US,JAVA,2,0,0,3,0,,,,,,,,
+505GE3G-6a90-4:757ia0c-2i-4-17,J3.6,4,Hobbyist,Male,3,US,Python,3,0,0,3,0,,,,,,,,
+51AE0A-7E53-3,J4.7,4,Graduate_Student,Female,5,US,c#,1,0,0,1,0,,,,,,,,
+1159AI-9A9g2-1-9,J4.7,5,Professional_Developer,Male,20,US,JAVA,0,0,2,0,1,,,,,,,,
+679cc3G-4E-7-7-3,J8.54,3,Hobbyist,Male,1.5,US,JAVA,1,0,2,1,0,,,,,,,,
+584cC0A4G-821,J7.33,4,Undergraduate_Student,Male,1,US,JAVA,1,0,0,0,1,,,,,,,,
+484Ec-5E-6C52-2,J8.54,5,Undergraduate_Student,Male,6,US,"C#, C++",0,0,2,1,0,,,,,,,,
+100iI-7A-7g-505:15ge-4I9c-31-7,J1.8,5,Hobbyist,Male,4,US,JAVA,0,0,0,1,1,,,,,,,,
+509ag3C6G-120,J8.54,4,Professional_Developer,Male,10,US,JAVA,0,0,3,0,0,,,,,,,,
+1332CE5a-2e-9-3-1,J4.7,5,Hobbyist,Male,4,US,JAVA,0,0,2,1,0,,,,,,,,
+37gg5C-5i149,J5.35,5,Graduate_Student,Male,6,US,C,2,1,0,2,0,,,,,,,,
+24cc-9i1a-4-81,J4.7,3,Professional_Developer,Male,10,US,JAVA,1,0,1,2,0,,,,,,,,
+801iG-2I-2G450,J4.7,4,Graduate_Student,Male,10,US,python,1,0,0,3,0,,,,,,,,
+979ei-5I-9C5-61,J4.7,4,Undergraduate_Student,Female,1,US,Python,1,0,1,2,0,,,,,,,,
+835iG-2A-6c5-1-3,J2.24,3,Undergraduate_Student,Male,17,US,JAVA,0,0,1,0,2,,,,,,,,
+257iC-1e8c9-56,J3.6,5,Undergraduate_Student,Other,2,US,C++,0,0,3,0,0,,,,,,,,
+181gi-1i8G-4-2-9,J4.7,3,Undergraduate_Student,Male,2,US,JAVA,0,0,3,0,0,,,,,,,,
+1471CA8i0C-225,J1.8,5,Other,Female,15,US,Python,0,1,1,0,0,,,,,,,,
+59eA3i6i030:86GA-3G-4C8-5-2,J2.24,4,Hobbyist,Male,15,US,C#,0,0,3,0,0,,,,,,,,
+83AA6G-2C-583,J6.51,5,Hobbyist,Male,24,US,PHP,1,0,0,2,0,,,,,,,,
+956GG7A0C-223,J4.7,3,Graduate_Student,Male,6,INDIA,SQL,0,0,0,3,0,,,,,,,,
+434Ci3a0c-1-68,J5.35,4,Professional_Developer,Male,33,US,C#,1,0,1,1,1,,,,,,,,
+1504ic8g0I130:312cI-5a9I-1-82:10eG-8i5a-618,J3.6,5,Professional_Developer,Male,8,INDIA,C#,0,1,2,0,0,,,,,,,,
+35Eg-6i-8G-2-6-8,J2.24,3,Undergraduate_Student,Female,3,US,php,0,0,1,2,0,,,,,,,,
+92ea8E5i07-8:77cc-5c0G32-4,J8.54,4,Graduate_Student,Male,6,US,JAVA,0,0,2,0,1,,,,,,,,
+1164Ac-1A6E-19-8,J4.7,3,Other,Male,1,US,JAVA,1,0,0,1,0,,,,,,,,
+1371aa-3i6A-67-2,J4.7,4,Undergraduate_Student,Male,5,US,JAVA,1,0,1,2,0,,,,,,,,
+458eA4a-4i44-9,J8.54,4,Undergraduate_Student,Male,9,US,JAVA,0,1,1,0,1,,,,,,,,
+605cg-2c6g-665,J8.54,3,Undergraduate_Student,Male,2,US,JAVA,1,0,2,1,0,,,,,,,,
+985AG2C4g-61-6,J4.7,3,Graduate_Student,Female,1,INDIA,C,0,0,1,1,1,,,,,,,,
+27Ei-8i0A-3-59:15cG-7i7C996,J2.24,3,Professional_Developer,Male,23,US,"RPG, Visual Basic",1,2,0,1,0,,,,,,,,
+1256Ii4I4g84-2,J6.51,3,Professional_Developer,Male,12,US,JAVA,3,0,0,3,0,,,,,,,,
+355Aa-2E7e8-97,J3.6,4,Professional_Developer,Male,10,US,JAVA,0,0,1,2,0,,,,,,,,
+1497Ia5a4a-185,J1.8,4,Undergraduate_Student,Female,3,US,C,0,0,2,0,0,,,,,,,,
+770Ce-7G-7e721,J4.7,4,Hobbyist,Male,1,INDIA,ASP.NET,0,0,0,3,0,,,,,,,,
+727aI-4c3a52-9,J8.54,5,Graduate_Student,Male,4,INDIA,"C, Cuda, Matlab",0,0,3,0,0,,,,,,,,
+1458GG9g6A2-9-9,J4.7,5,Hobbyist,Male,3,US,C#,2,0,1,2,0,,,,,,,,
+1050eE-1c-6C0-2-1,J4.7,5,Professional_Developer,Male,10,US,php,0,1,2,0,0,,,,,,,,
+94iC8I-7g2-6-9:176ac-2C-6e7-94,J3.6,3,Professional_Developer,Male,25,US,"C#, C++",0,0,0,2,1,,,,,,,,
+52ag-1C-3E-29-3,J8.54,3,Hobbyist,Female,1,US,JAVA,0,0,2,0,0,,,,,,,,
+817Ec-1A8c-194,J4.7,4,Undergraduate_Student,Male,8,US,JAVA,1,0,0,3,0,,,,,,,,
+1394iC9g0e-7-66,J4.7,4,Professional_Developer,Male,5,US,C++ and Python,0,0,2,1,0,,,,,,,,
+1503ge-6g-9C95-7,J4.7,3,Other,Male,7,INDIA,JAVA,2,0,0,3,0,,,,,,,,
+940IE-6c3C5-6-5,J4.7,3,Other,Male,1,Sri Lanka,Python,0,0,1,2,0,,,,,,,,
+1206iA4i-9C6-8-3,J6.51,5,Undergraduate_Student,Female,2,US,3,0,0,1,1,1,,,,,,,,
+247iI-1a-8i-2-2-3,J8.54,4,Other,Female,7,US,JAVA,0,0,3,0,0,,,,,,,,
+43IC4E-5c0-3-2,J2.24,3,Hobbyist,Male,12,US,AJAX,1,0,0,0,2,,,,,,,,
+406cI-5A0g-91-1,J3.6,3,Graduate_Student,Male,1,Romania,Swift,2,0,0,2,0,,,,,,,,
+118Cc-2C-6I-1-83,J6.51,5,Graduate_Student,Female,3,INDIA,JAVA,0,0,1,1,1,,,,,,,,
+656AI5G0i-32-5,J1.8,4,Undergraduate_Student,Male,4,US,JAVA,0,1,2,0,0,,,,,,,,
+733ea2e-6i808,J8.54,5,Hobbyist,Male,1,US,C++,1,0,2,1,0,,,,,,,,
+205Ai1c-6A95-2,J8.54,3,Professional_Developer,Male,11,US,"MAGIC, C++",3,0,0,3,0,,,,,,,,
+881AC0I2E-625:135cI3E-7e8-86,J1.8,5,Professional_Developer,Male,7,US,JAVA,0,1,2,0,0,,,,,,,,
+1523iA8C4C-602,J1.8,5,Professional_Developer,Male,14,US,"C++,Object Pascal",0,1,1,0,0,,,,,,,,
+602Cc9g-4i1-3-4,J8.54,3,Undergraduate_Student,Female,2,US,python,0,0,3,0,0,,,,,,,,
+686GG7a1c856,J8.54,5,Professional_Developer,Male,10,US,JAVA,0,0,1,2,0,,,,,,,,
+375iA6E-5g91-6,J7.33,5,Hobbyist,Female,5,US,JAVA,0,0,2,0,1,,,,,,,,
+1171ea-4g-6C-73-8,J6.51,3,Graduate_Student,Male,2,US,C#,0,0,1,2,0,,,,,,,,
+96CE1c7G35-1:591ga-7E0E9-88,J4.7,4,Hobbyist,Female,15,US,JAVA,0,0,2,0,1,,,,,,,,
+5Ag-2g5E106,J4.7,5,Undergraduate_Student,Male,3,US,JAVA,0,0,1,1,1,,,,,,,,
+57Ai4C-7E67-1,J4.7,5,Professional_Developer,Female,6,US,C++,0,0,3,0,0,,,,,,,,
+162EC-9C1G-9-8-2,J8.54,3,Graduate_Student,Female,1,uk,C,0,0,0,1,0,,,,,,,,
+1210gi0G-9I-1-5-7,J6.51,4,Graduate_Student,Male,8,US,Python,0,0,1,0,0,,,,,,,,
+222cC-5A1E364,J8.54,4,Professional_Developer,Male,5,US,JAVA,0,0,1,1,1,,,,,,,,
+1457Ee7C-8c4-51:836Ii-6G-5c-819,J4.7,3,Undergraduate_Student,Female,2,US,Python,3,0,0,2,1,,,,,,,,
+901AG-9g1g270,J4.7,5,Professional_Developer,Female,7,INDIA,JAVA,0,1,2,0,0,,,,,,,,
+498ce-2a7G1-27,J8.54,4,Undergraduate_Student,Male,3,US,C,0,0,3,0,0,,,,,,,,
+470Gc0A-7e-350,J7.33,5,Hobbyist,Male,10,US,JAVA,0,0,0,1,1,,,,,,,,
+431IC5c-9A-716,J5.35,3,Undergraduate_Student,Female,2,US,C++,0,0,1,1,1,,,,,,,,
+268Ai-3a-7G689,J3.6,3,Graduate_Student,Female,2,US,python,0,0,1,1,1,,,,,,,,
+1592Eg1I-7A9-5-4,J1.8,5,Professional_Developer,Male,12,US,JAVA,0,0,2,0,0,,,,,,,,
+321Ei-7C3c96-3,J8.54,3,Professional_Developer,Male,5,US,SQL,0,0,3,0,0,,,,,,,,
+1569GA-9C0a903,J1.8,5,Professional_Developer,Male,7,US,visual foxpro,0,1,1,0,0,,,,,,,,
+393gE6C1e-964,J8.54,3,Other,Female,20,US,Various,0,0,2,1,0,,,,,,,,
+690eg9E3e-97-9,J8.54,3,Professional_Developer,Male,2,INDIA,JAVA,1,0,1,2,0,,,,,,,,
+66Ig3i-8i-7-4-5,J6.51,5,Hobbyist,Female,10,US,python,0,0,3,0,0,,,,,,,,
+519CE-1a-8G700:117Ec-7c4a-50-9:93Ce-7c-8i-69-4,J1.8,5,Professional_Developer,Female,4,US,JAVA,0,0,2,1,0,,,,,,,,
