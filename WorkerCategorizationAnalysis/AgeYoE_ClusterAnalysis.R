@@ -18,6 +18,7 @@ head(dataf)
 #Remove rows with not available data
 dataf <- dataf [rowSums(is.na(data))==0,]
 
+#Remove invalid values
 dataf <- dataf [!dataf$year_of_experience <0,]
 dataf <- dataf [!dataf$age <0,]
 
