@@ -17,7 +17,7 @@ loadDemographics<- function(fileName){
   
   #Remove invalid values
   dataf <- dataf [!dataf$Worker.Age <1,]
-  dataf <- dataf [!dataf$Worker.Age <1,]
+  dataf <- dataf [!dataf$Worker.YoE <1,]
   
   #Outliers
   #Assuming that the youngest age to start programming is 10 years old
