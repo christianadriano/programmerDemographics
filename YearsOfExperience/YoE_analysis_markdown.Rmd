@@ -1,0 +1,105 @@
+---
+title: "age_yoe_clustering"
+author: "Christian Medeiros Adriano"
+date: "May 4, 2017"
+output: html_document
+---
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+```
+
+### Cluster analysis
+<p>Do we have meaningful clusters of Mechanical Turk workers that can be grouped by age and years of computer programming experience?</p>
+
+```{r loadData, echo=FALSE}
+setwd("C://Users//chris//OneDrive//Documentos//GitHub//programmerDemographics//WorkerCategorizationAnalysis");
+data_all <- read.csv("demographics_data.csv",header = TRUE,sep=",");
+
+data <- cbind(data_all$Years.Programming,data_all$Worker.Age);
+colnames(data)<-c("years_of_programming_experience","age");
+dataf = data.frame(data)
+```
+###Data cleaning
+<p>Remove NA's, invalid age and years of experience, and age is smaller than years of experience</p>
+
+```{r data, echo=FALSE}
+#Remove rows with not available data
+dataf <- dataf [rowSums(is.na(data))==0,]
+
+#Remove Invalid age and invalid years of experience
+dataf <- dataf [!dataf$years_of_programming_experience <0,]
+dataf <- dataf [!dataf$age <0,]
+
+#Remove people with no experience in programming
+dataf <- dataf [!dataf$years_of_programming_experience ==0,]
+
+#Remove people who whose age and experience 
+dataf <- dataf [!(dataf$age - dataf$years_of_programming_experience) <0,]
+
+#Remove outliers
+dataf <- dataf [!dataf$years_of_programming_experience >40,]
+dataf <- dataf [!dataf$age >80,]
+
+summary(dataf);
+cat("number of workers:",length(dataf[,1]));
+
+```
+
+###Plotting and regression curve
+```{r plotting, echo=FALSE}
+ggplot(dataf, aes(x=years_of_programming_experience, y=age)) +
+  geom_point(shape=1) +    # Use hollow circles
+  geom_smooth() +            # Add a loess smoothed fit curve with confidence region
+  ggtitle("Distribution of age by years of experience")
+```
+<p>Many people seemed to have reported their experiences in multiples of 5 years.</p>
+
+
+## Clustering
+```{r plotKMeansClusters, echo=FALSE}
+#Function computes N clusters and plot a chart with them
+
+plotKMeansClusters<- function(numberOfClusters){
+  (cl <- kmeans(dataf,numberOfClusters))
+  
+  dataf$cluster=factor(cl$cluster)
+  centers=as.data.frame(cl$centers)
+  
+  #Looking at the clusters with size diameter 15.
+  ggplot(dataf, aes(x=years_of_programming_experience, y=age, color=cluster)) +
+    geom_point(shape=1) +    # Use hollow circles
+    geom_smooth() + # Add a loess smoothed fit curve with confidence region
+    geom_point(data=centers, aes(x=years_of_programming_experience,y=age, color='Center'), size=40, alpha=.3)+
+    ggtitle("Clusters of years of experience and age")+
+    guides(color=FALSE);
+  
+}
+```
+
+<p>What happens if we divide workers in 5 clusters, which is the number of professions?</p>
+```{r plotKMeansClusters5, echo=FALSE}
+plotKMeansClusters(5)
+```
+<p>We can see a lot of superposition of clusters. So, we let's try fewer clusters</p>
+```{r plotKMeansClusters432, echo=FALSE}
+plotKMeansClusters(4)
+plotKMeansClusters(3)
+plotKMeansClusters(2)
+```
+
+<p>
+Only with two clusters we circles do not superpose. Interpreting that, we would have two large groups of workers. People above 35 years old with a wide spread of programming experience. While people below 35 concentrated from 1 to 15 years of programming experience.
+</p>
+
+####Future analysis
+<ul>
+<li>Do these clusters map to professions? In other words, can we predict the worker profession based on age and years of programming experience?</li>
+<li>Would it make much difference in terms of number of meaningful clusters if I apply SVM or Decision trees methods?</li>
+<li>Are worker clusters statistically significanlty distinct in terms of average accuracy?</li>
+</ul>
+
+<hr width="50%">
+<p>Thanks for reading! Is there anything I could improve? Please leave a comment - Christian.</p>
+<i>"We are trying to prove ourselves wrong as quickly as possible, because only in that way we can find progress." Richard P. Feynman</i>
