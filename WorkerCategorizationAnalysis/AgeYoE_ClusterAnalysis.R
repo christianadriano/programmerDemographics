@@ -12,29 +12,25 @@ data_all <- read.csv("demographics_data.csv",header = TRUE,sep=",");
 
 data <- cbind(data_all$Years.Programming,data_all$Worker.Age);
 colnames(data)<-c("years_of_programming_experience","age");
-dataf = data.frame(data)
-#head(dataf)
 
 #First I need to look at the outliers or invalid values
 #Invalid age and invalid years of experience
 
-#Remove rows with not available data
 dataf <- dataf [rowSums(is.na(data))==0,]
 
 #Remove Invalid age and invalid years of experience
 dataf <- dataf [!dataf$years_of_programming_experience <0,]
-dataf <- dataf [!dataf$age <0,]
+dataf <- dataf [!dataf$age <18,] ##minimum age to participate
 
 #Remove people with no experience in programming
 dataf <- dataf [!dataf$years_of_programming_experience ==0,]
 
-#Remove people who whose age and experience are 
-dataf <- dataf [!(dataf$age - dataf$years_of_programming_experience) <10,]
+#Remove people who whose age and experience 
+dataf <- dataf [!(dataf$age - dataf$years_of_programming_experience) <5,]
 
 #Remove outliers
 dataf <- dataf [!dataf$years_of_programming_experience >40,]
 dataf <- dataf [!dataf$age >80,]
-
 
 summary(dataf);
 cat("number of workers:",length(dataf[,1]));
