@@ -1,5 +1,5 @@
 ---
-title: "age_yoe_clustering"
+title: "Clustering age and years of programming experience"
 author: "Christian Medeiros Adriano"
 date: "May 4, 2017"
 output: html_document
@@ -19,10 +19,9 @@ data_all <- read.csv("demographics_data.csv",header = TRUE,sep=",");
 
 data <- cbind(data_all$Years.Programming,data_all$Worker.Age);
 colnames(data)<-c("years_of_programming_experience","age");
-dataf = data.frame(data)
 ```
 ###Data cleaning
-<p>Remove NA's, invalid age and years of experience, and age is smaller than years of experience</p>
+<p>Remove NA's, invalid age and years of experience, and entries for which difference between worker age and years of experience is smaller than 5 (assuming that the minimum age for person to start programming is 5 years old)</p>
 
 ```{r data, echo=FALSE}
 #Remove rows with not available data
@@ -30,13 +29,13 @@ dataf <- dataf [rowSums(is.na(data))==0,]
 
 #Remove Invalid age and invalid years of experience
 dataf <- dataf [!dataf$years_of_programming_experience <0,]
-dataf <- dataf [!dataf$age <0,]
+dataf <- dataf [!dataf$age <18,] ##minimum age to participate
 
 #Remove people with no experience in programming
 dataf <- dataf [!dataf$years_of_programming_experience ==0,]
 
 #Remove people who whose age and experience 
-dataf <- dataf [!(dataf$age - dataf$years_of_programming_experience) <0,]
+dataf <- dataf [!(dataf$age - dataf$years_of_programming_experience) <5,]
 
 #Remove outliers
 dataf <- dataf [!dataf$years_of_programming_experience >40,]
@@ -95,6 +94,7 @@ Only with two clusters we circles do not superpose. Interpreting that, we would 
 
 ####Future analysis
 <ul>
+<li>What if you cluster only up to 10 years of experience? For the remaining data, you can either filter out or create a bin for +10 years</li>
 <li>Do these clusters map to professions? In other words, can we predict the worker profession based on age and years of programming experience?</li>
 <li>Would it make much difference in terms of number of meaningful clusters if I apply SVM or Decision trees methods?</li>
 <li>Are worker clusters statistically significanlty distinct in terms of average accuracy?</li>
